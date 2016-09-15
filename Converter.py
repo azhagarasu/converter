@@ -39,24 +39,3 @@ else:
     print('Entered value is incorrect. Please type binary or octal or hex or unicode.')
 
 print('\n\n')
-
-
-
-
-
-
-#Unused code
-
-#binary = bin(a)
-#print('\n\nThe binary value of', a, 'is:', binary)
-#bin = format(a, 'b')
-#octal = oct(a)
-#octal = format(a, 'o')
-#print('The octal value of', a, 'is:', octal)
-#hexdec = hex(a)
-#hexdec = format(a, 'X')
-#print('The hexadecimal value of', a, 'is:', hexdec)
-#print('this is test', i)
-#print('\n\n')
-#print('\n\n')
-#print('\n\n')
