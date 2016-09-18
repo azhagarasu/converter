@@ -1,0 +1,6 @@
+{
+  "name": "Converter",
+  "tagline": "Convert from decimal to binary, octal, hexadecimal and unicode. ",
+  "body": "# converter\r\nConvert from decimal to binary, octal, hexadecimal and unicode. This script is written in Python 3.x language.\r\n\r\n## Requirements\r\nPython must be installed. Download and install Python 3.x - https://www.python.org/downloads/\r\n\r\n## Optional\r\nOn Windows machines, to be able to run python from any directory, after instllation add the install directory of pyhon to environment variables.\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
